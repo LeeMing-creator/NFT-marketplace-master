@@ -1,0 +1,2 @@
+
+E:\work\React\git\NFT-Marketplace-master>  "E:\work\React\git\NFT-Marketplace-master\node_modules\.bin\\node.exe"  "E:\work\React\git\NFT-Marketplace-master\node_modules\.bin\\..\truffle\build\cli.bundled.js" (development) balance = await instance.getBalance(accounts[0])
